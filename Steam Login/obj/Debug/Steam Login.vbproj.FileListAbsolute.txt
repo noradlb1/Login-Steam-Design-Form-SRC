@@ -1,0 +1,11 @@
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\bin\Debug\Steam Login.exe.config
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\bin\Debug\Steam Login.exe
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\bin\Debug\Steam Login.pdb
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\bin\Debug\Steam Login.xml
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam_Login.Form1.resources
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam_Login.Resources.resources
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam Login.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam Login.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam Login.exe
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam Login.xml
+C:\Users\MONSTERMC\source\repos\Steam Login\Steam Login\obj\Debug\Steam Login.pdb
